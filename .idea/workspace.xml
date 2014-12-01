@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d6162e2-b9c0-4313-9af1-b4829102bf02" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-01-welcome-to-jekyll.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="buam-102.github.io.iws" />
@@ -32,7 +28,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="31" selection-start="562" selection-end="562" vertical-scroll-proportion="0.29149798" vertical-offset="0" max-vertical-offset="1235">
+            <state line="14" column="0" selection-start="338" selection-end="338" vertical-scroll-proportion="0.17004049" vertical-offset="0" max-vertical-offset="1235">
               <folding />
             </state>
           </provider>
@@ -171,7 +167,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="31" selection-start="562" selection-end="562" vertical-scroll-proportion="0.29149798" vertical-offset="0" max-vertical-offset="1235">
+        <state line="14" column="0" selection-start="338" selection-end="338" vertical-scroll-proportion="0.17004049" vertical-offset="0" max-vertical-offset="1235">
           <folding />
         </state>
       </provider>
